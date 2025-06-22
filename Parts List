@@ -1,0 +1,46 @@
+This is a chronological parts list of all the bits I have used so fat. I have not included the case hardware as the requirements for that will change depending on the geographical location and other factors.
+
+Video 02: Just enough about breadboards:
+  1 x high quality breadboard
+  1 x tactile push-to-make switch
+  1 x 220R resistor
+  1 x multimeter
+  various jumper cables
+  1 x 5v power supply
+
+Video 03: Just enough about logic gates:
+  as above, plus
+  2 x LED
+  1 x tactile push-to-make switch
+  2 x 220 Ohm resistor
+  1 x 74HC04 
+  1 x 74HC08
+  1 x 74HC32
+  1 x 74HC00
+  1 x 74HC02
+  various lengths and colours of 22awg solid core wire
+
+Video 06: Just enough about power and clocks:
+  24 x BPS BB100R breadboard rails
+  6 x  BPS BB830 breadboards
+  13 x 0.1uF ceramic capacitors
+  1 x 74HC14
+  1 x 1k resistor
+  1 x 10k resistor
+  1 x 220R resistor
+  1 x blue LED
+  1 x tactile push-to-make switch
+  various lengths and colours of 22awg solid core wire
+
+Video 07: Just enough about the 6502:
+  as above, plus
+  1 x W65C02 processor
+  1 x tactile push-to-make switch
+  1 x 1k resistor
+  various lengths and colours of 22awg solid core wire
+
+Video 08: Just enough about an Arduino
+  as above, plus
+  1 x Arduino Mega
+  various jumper wires
+
